@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="stylesheet"
+			href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+			integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+			crossorigin="anonymous"
+		/>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="stylesheet" href="menu.css" />
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<title>Portfolio</title>
+	</head>
+	<body>
+		<section>
+			<div class="menu-wrap">
+				<input type="checkbox" class="toggler" />
+				<div class="hamburger"><div></div></div>
+				<div class="menu">
+					<div>
+						<div>
+							<ul>
+								<li><a href="#">Home</a></li>
+								<li><a href="#">About me</a></li>
+								<li><a href="#">Projets</a></li>
+								<li><a href="#">Contacts</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<header class="bg">
+			<div class="text-right">
+				<h1 class="title police m_title">Anthony</h1>
+			</div>
+
+			<div class="m_title2">
+				<h1 class="title police2">Chatelot</h1>
+			</div>
+
+			<div class="fs_text">
+				<li class="m_text"><a href="#" class="link">About me</a></li>
+				<li class="m_text"><a href="#" class="link">Projets</a></li>
+				<li class="m_text"><a href="#" class="link">Contacts</a></li>
+			</div>
+		</header>
+
+		<section class="color_back showcase">
+			<div class="container showcase-inner">
+				<h1 class="police title2 text_center">About me</h1>
+				<br /><br /><br /><br />
+				<p class="police2 fs_text">
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
+					consequatur quia maiores nobis quibusdam aspernatur molestiae qui
+					voluptatum nulla ratione corporis esse dolores, minus veniam,
+					doloribus atque velit quaerat cum.
+				</p>
+			</div>
+		</section>
+
+		<section class="color_back showcase">
+			<div class="container showcase-inner">
+				<h1 class="police title2 text_center">Projets</h1>
+			</div>
+		</section>
+
+		<section class="color_back showcase">
+			<div class="container showcase-inner">
+				<h1 class="police title2 text_center">Contacts</h1>
+				<br /><br /><br /><br />
+				<div class="contact-form police">
+					<form id="contact-form" method="post" action="">
+						<input
+							name="name"
+							type="text"
+							class="form-control"
+							placeholder="Your Name"
+							required
+						/><br />
+						<input
+							name="email"
+							type="email"
+							class="form-control"
+							placeholder="Your Email"
+							required
+						/><br />
+
+						<textarea
+							name="message"
+							class="form-control"
+							placeholder="Message"
+							rows="4"
+							required
+						></textarea
+						><br />
+
+						<input
+							type="submit"
+							class="form-control submit police2"
+							value="SEND MESSAGE"
+						/>
+					</form>
+				</div><br><br>
+				<div class="wrapper">
+					<div class="button police">
+						<div class="icon">
+							<i class="fab fa-github"></i>
+						</div>
+						<span>Github</span>
+					</div>
+					<div class="button police">
+						<div class="icon">
+							<i class="fab fa-linkedin-in"></i>
+						</div>
+						<span>Linkedin</span>
+					</div>
+				</div>
+			</div>
+		</section>
+	</body>
+</html>
