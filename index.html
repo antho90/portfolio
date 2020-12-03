@@ -10,12 +10,12 @@
 			crossorigin="anonymous"
 		/>
 		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="stylesheet" type="text/css" href="test.css" />
 		<link rel="stylesheet" href="menu.css" />
 		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 		<title>Portfolio</title>
 	</head>
 	<body>
-		<section>
 			<div class="menu-wrap">
 				<input type="checkbox" class="toggler" />
 				<div class="hamburger"><div></div></div>
@@ -24,9 +24,9 @@
 						<div>
 							<ul>
 								<li><a href="#">Home</a></li>
-								<li><a href="#">About me</a></li>
-								<li><a href="#">Projets</a></li>
-								<li><a href="#">Contacts</a></li>
+								<li><a href="#about_me">About me</a></li>
+								<li><a href="#projets">Projets</a></li>
+								<li><a href="#contacts">Contacts</a></li>
 							</ul>
 						</div>
 					</div>
@@ -44,13 +44,13 @@
 			</div>
 
 			<div class="fs_text">
-				<li class="m_text"><a href="#" class="link">About me</a></li>
-				<li class="m_text"><a href="#" class="link">Projets</a></li>
-				<li class="m_text"><a href="#" class="link">Contacts</a></li>
+				<li class="m_text"><a href="#about_me" class="link">About me</a></li>
+				<li class="m_text"><a href="#projets" class="link">Projets</a></li>
+				<li class="m_text"><a href="#contacts" class="link">Contacts</a></li>
 			</div>
 		</header>
 
-		<section class="color_back showcase">
+		<section id="about_me" class="color_back showcase">
 			<div class="container showcase-inner">
 				<h1 class="police title2 text_center">About me</h1>
 				<br /><br /><br /><br />
@@ -63,13 +63,21 @@
 			</div>
 		</section>
 
-		<section class="color_back showcase">
+		<section id="projets" class="color_back showcase">
 			<div class="container showcase-inner">
 				<h1 class="police title2 text_center">Projets</h1>
+				<div class="image-wrapper">
+					<a href="https://github.com/antho90/Projet-multiplication" target="_blank">	
+						<img class="image-1" src="img/projet_mul.JPG" />
+						<img class="image-2" src="img/projet_mul.JPG" />
+						<img class="image-3" src="img/projet_mul.JPG" />
+						<img class="image-4" src="img/projet_mul.JPG" />
+					</a>
+				</div>
 			</div>
 		</section>
 
-		<section class="color_back showcase">
+		<section id="contacts" class="color_back t showcase">
 			<div class="container showcase-inner">
 				<h1 class="police title2 text_center">Contacts</h1>
 				<br /><br /><br /><br />
@@ -105,20 +113,25 @@
 							value="SEND MESSAGE"
 						/>
 					</form>
-				</div><br><br>
+				</div>
+				<br /><br />
+
 				<div class="wrapper">
-					<div class="button police">
-						<div class="icon">
-							<i class="fab fa-github"></i>
-						</div>
-						<span>Github</span>
-					</div>
-					<div class="button police">
-						<div class="icon">
-							<i class="fab fa-linkedin-in"></i>
-						</div>
-						<span>Linkedin</span>
-					</div>
+					<a href="https://github.com/antho90" target="_blank">
+						<div class="button police">
+							<div class="icon">
+								<i class="fab fa-github"></i>
+							</div>
+							<span>Github</span>
+						</div></a>
+
+					<a href="https://www.linkedin.com/in/anthony-chatelot-6541071b8/" target="_blank">
+						<div class="button police">
+							<div class="icon">
+								<i class="fab fa-linkedin-in"></i>
+							</div>
+							<span>Linkedin</span>
+						</div></a>
 				</div>
 			</div>
 		</section>
