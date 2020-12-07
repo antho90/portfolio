@@ -179,7 +179,6 @@ header li {
 }
 
 header > div > li > a {
-	text-decoration: none;
 	font-family: 'made_soulmazeitalic';
 	color: #ff1717;
 	display: inline-block;
@@ -250,6 +249,12 @@ header > div > li > a {
 .link:hover::after {
 	width: 100%;
 	transition: width 0.3s;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+	text-decoration: none;
+	color: #ff1717;
 }
 
 .form-control {
