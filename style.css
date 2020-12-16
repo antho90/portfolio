@@ -268,13 +268,13 @@ a:active {
 }
 
 .form-control {
-	width: 600px;
+	width: 45vw;
 	background: transparent;
 	border: none;
 	outline: none;
 	border-bottom: 1px solid gray;
 	color: rgb(255, 255, 255);
-	font-size: 18px;
+	font-size: 15px;
 	margin-bottom: 16px;
 }
 
