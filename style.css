@@ -125,6 +125,14 @@ table {
 
 /*reset____________________________________________________________________*/
 
+html::-webkit-scrollbar {
+	display: none;
+  }
+  html{
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+  }
+
 body,
 html {
 	height: 100%;
@@ -314,10 +322,10 @@ form .submit:hover {
 	transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon {
-	background: #ac0404;
+	background: #ff1717;
 }
 .wrapper .button:nth-child(2):hover .icon {
-	background: #ac0404;
+	background: #ff1717;
 }
 
 .wrapper .button .icon i {
@@ -336,10 +344,10 @@ form .submit:hover {
 	transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span {
-	color: #ac0404;
+	color: #ff1717;
 }
 .wrapper .button:nth-child(2) span {
-	color: #ac0404;
+	color: #ff1717;
 }
 .m_bottom {
 	margin-bottom: 10%;
@@ -355,7 +363,7 @@ figure.snip1104 {
 	margin: 10px;
 	min-width: 100px;
 	max-width: 700px;
-	max-height: 400px;
+	max-height: 394px;
 	margin-top: 100px;
 	background: #000000;
 	color: #ffffff;
@@ -424,30 +432,6 @@ figure.snip1104 a {
 	bottom: 0;
 	position: absolute;
 	z-index: 1;
-}
-
-figure.snip1104.blue {
-	background: #123851;
-}
-
-figure.snip1104.blue h2 {
-	background: #0a212f;
-}
-
-figure.snip1104.red {
-	background: #581a14;
-}
-
-figure.snip1104.red h2 {
-	background: #36100c;
-}
-
-figure.snip1104.yellow {
-	background: #7f5006;
-}
-
-figure.snip1104.yellow h2 {
-	background: #583804;
 }
 
 figure.snip1104:hover img,
