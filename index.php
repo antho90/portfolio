@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="menu.css" />
 		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 		<link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/000000/mountain.png"/>
-		<title>Portfolio</title>
+		<title>Anthony Chatelot</title>
 	</head>
 	<body>
 		<section>
