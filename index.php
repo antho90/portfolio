@@ -84,7 +84,7 @@
 				<h1 class="police title2 text_center">Contacts</h1>
 				<br /><br /><br /><br />
 				<div class="contact-form police">
-					<form id="contact-form" method="post" action="">
+					<form id="contact-form" method="POST" action="">
 						<input
 							name="name"
 							type="text"
@@ -114,6 +114,7 @@
 							class="form-control submit police2"
 							value="Envoyer"
 						/>
+						<p id="response"></p>
 					</form>
 				</div>
 				<br /><br />
@@ -142,6 +143,6 @@
 				</div>
 			</div>
 		</section>
-
+		<script src="scrypt.js"></script>
 	</body>
 </html>
