@@ -302,7 +302,7 @@ form .submit:hover {
 	width: 60px;
 	margin: 0 5px;
 	overflow: hidden;
-	background: #fff;
+	/* background: #fff; */
 	border-radius: 50px;
 	cursor: pointer;
 	box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
@@ -334,7 +334,7 @@ form .submit:hover {
 	transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .wrapper .button span {
 	font-size: 20px;
@@ -417,7 +417,7 @@ figure.snip1104:before {
 	top: 0;
 	left: 0;
 	content: '';
-	background: #ffffff;
+	background: #ffffff6e;
 	position: absolute;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;

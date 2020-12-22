@@ -118,6 +118,10 @@
 					</form>
 				</div>
 				<br /><br />
+<!-- 
+				<div class="fs_text police">
+						<p> anthonychxtelxt@gmail.com </p>
+				</div><br /><br /> -->
 
 				<div class="wrapper">
 					<a href="https://github.com/antho90" target="_blank">
