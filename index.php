@@ -158,7 +158,7 @@
 					>
 
 					<a
-						href="https://www.linkedin.com/in/anthony-chatelot-6541071b8/"
+						href="https://www.linkedin.com/in/anthony-chatelot/"
 						target="_blank"
 					>
 						<div class="button police">
