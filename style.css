@@ -249,7 +249,7 @@ header > div > li > a {
 	content: '';
 	display: block;
 	width: 0;
-	height: 2px;
+	height: 6px;
 	background: #ff1717;
 	transition: width 0.3s;
 }
