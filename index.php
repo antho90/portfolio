@@ -62,7 +62,7 @@
 			</div>
 		</section>
 
-		<section id="projects" class="color_back showcase">
+		<section id="projects" class="color_back">
 			<div class="container showcase-inner">
 				<h1 class="police title2 text_center m_text">Projets</h1>
 
@@ -73,9 +73,33 @@
 					<a href="https://anthonyc541.promo-45.codeur.online/carte_anim/" target="_blank"></a>
 				  </figure>
 
-				<a class="police link fs_text m_text" href="allprojects.html"
-					>Voir tous mes projets</a
-				>
+				  <figure class="snip1104"><img src="img/projet_mul.jpg"/>
+					<figcaption>
+					  <h2>Projet<span> Multiplication</span></h2>
+					</figcaption>
+					<a href="https://github.com/antho90/Projet-multiplication" target="_blank"></a>
+				  </figure>
+
+				  <figure class="snip1104"><img src="img/crud.jpg"/>
+					<figcaption>
+					  <h2>Projet<span> CRUD</span></h2>
+					</figcaption>
+					<a href="https://anthonyc541.promo-45.codeur.online/Comptes/register.php" target="_blank"></a>
+				  </figure>
+
+				  <figure class="snip1104"><img src="img/mark.jpg"/>
+					<figcaption>
+					  <h2>Projet<span> Mark</span></h2>
+					</figcaption>
+					<a href="https://anthonyc541.promo-45.codeur.online/Mark/" target="_blank"></a>
+				  </figure>
+
+				  <figure class="snip1104"><img src="img/wordpress.jpg"/>
+					<figcaption>
+					  <h2>Projet<span> Wordpress</span></h2>
+					</figcaption>
+					<a href="https://github.com/antho90/wordpress" target="_blank"></a>
+				  </figure>
 			</div>
 		</section>
 

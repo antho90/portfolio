@@ -237,7 +237,7 @@ header > div > li > a {
 	position: relative;
 }
 
-.showcase .showcase-inner {
+.showcase-inner {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
