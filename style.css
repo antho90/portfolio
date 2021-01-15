@@ -207,12 +207,13 @@ header > div > li > a {
 }
 
 .title2 {
-	font-size: 5vw;
+	font-size: calc(26.48148px + 1.54321vw);
 }
 
 .fs_text {
-	font-size: 2vw;
+	font-size: calc(11.44444px + .90296vw);
 	text-align: center;
+	line-height: 170%;
 }
 .text_center {
 	text-align: center;
@@ -451,4 +452,15 @@ figure.snip1104:hover:before,
 figure.snip1104.hover:before {
 	-webkit-transform: rotate(110deg) translateY(-150%);
 	transform: rotate(110deg) translateY(-150%);
+}
+
+.fs-link {
+
+	font-size: calc(11.18519px + 1.23457vw);
+	text-align: center;
+}
+
+.fs_link_header {
+	text-align: center;
+	font-size: 2vw;
 }

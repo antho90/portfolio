@@ -25,7 +25,7 @@
 						<div>
 							<ul>
 								<li><a href="#">Accueil</a></li>
-								<li><a href="#about_me">A propos</a></li>
+								<li><a href="#about_me">À propos</a></li>
 								<li><a href="#projects">Projets</a></li>
 								<li><a href="#contacts">Contacts</a></li>
 							</ul>
@@ -44,8 +44,8 @@
 				<h1 class="title police2">Chatelot</h1>
 			</div>
 
-			<div class="fs_text">
-				<li><a href="#about_me" class="link">A propos</a></li>
+			<div class="fs_link_header">
+				<li><a href="#about_me" class="link">À propos</a></li>
 				<li><a href="#projects" class="link">Projets</a></li>
 				<li><a href="#contacts" class="link">Contacts</a></li>
 			</div>
@@ -53,12 +53,13 @@
 
 		<section id="about_me" class="color_back showcase">
 			<div class="container showcase-inner">
-				<h1 class="police title2 text_center">A propos</h1>
+				<h1 class="police title2 text_center">À propos</h1>
 				<br /><br /><br /><br />
 				<p class="police2 fs_text">
 					Bonjour je suis Anthony Chatelot. Actuellement en formation Designer web à l'Access Code School de Belfort.
 					Disponible pour stage dans le territoire de Belfort.
 				</p>
+				<a class="police link fs-link m_text m_bottom" href="https://drive.google.com/file/d/1kNBFs-z38VEaQKz1OBj8bACEOSQFuNGp/view?usp=sharing" target="_blank"> Télécharger mon CV </a>
 			</div>
 		</section>
 
