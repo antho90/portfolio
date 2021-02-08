@@ -74,6 +74,13 @@
 					<a href="https://github.com/antho90/remuneration" target="_blank"></a>
 				  </figure>
 
+				  <figure class="snip1104"><img src="img/Abysse.JPG"/>
+					<figcaption>
+					  <h2>Projet<span> Abysse</span></h2>
+					</figcaption>
+					<a href="https://github.com/nath-pvr/abyss" target="_blank"></a>
+				  </figure>
+
 				<figure class="snip1104"><img src="img/carte_voeux.jpg"/>
 					<figcaption>
 					  <h2>Projet<span> Carte de voeux</span></h2>
