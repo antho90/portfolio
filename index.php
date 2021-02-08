@@ -67,6 +67,13 @@
 			<div class="container showcase-inner">
 				<h1 class="police title2 text_center m_text">Projets</h1>
 
+				<figure class="snip1104"><img src="img/remu.JPG"/>
+					<figcaption>
+					  <h2>Projet<span> Rémunération</span></h2>
+					</figcaption>
+					<a href="https://github.com/antho90/remuneration" target="_blank"></a>
+				  </figure>
+
 				<figure class="snip1104"><img src="img/carte_voeux.jpg"/>
 					<figcaption>
 					  <h2>Projet<span> Carte de voeux</span></h2>
