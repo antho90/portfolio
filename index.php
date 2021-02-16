@@ -24,10 +24,10 @@
 					<div>
 						<div>
 							<ul>
-								<li><a href="#">Accueil</a></li>
-								<li><a href="#about_me">À propos</a></li>
-								<li><a href="#projects">Projets</a></li>
-								<li><a href="#contacts">Contacts</a></li>
+								<li><a class="nav_links" href="#">Accueil</a></li>
+								<li><a class="nav_links" href="#about_me">À propos</a></li>
+								<li><a class="nav_links" href="#projects">Projets</a></li>
+								<li><a class="nav_links" href="#contacts">Contacts</a></li>
 							</ul>
 						</div>
 					</div>
@@ -92,7 +92,7 @@
 					<figcaption>
 					  <h2>Projet<span> Multiplication</span></h2>
 					</figcaption>
-					<a href="https://github.com/antho90/Projet-multiplication" target="_blank"></a>
+					<a href="https://anthonyc541.promo-45.codeur.online/Projet-multiplication/" target="_blank"></a>
 				  </figure>
 
 				  <figure class="snip1104"><img src="img/crud.jpg"/>
