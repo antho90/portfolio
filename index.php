@@ -71,14 +71,14 @@
 					<figcaption>
 					  <h2>Projet<span> Rémunération</span></h2>
 					</figcaption>
-					<a href="https://github.com/antho90/remuneration" target="_blank"></a>
+					<a href="https://anthonyc541.promo-45.codeur.online/remunerations/" target="_blank"></a>
 				  </figure>
 
 				  <figure class="snip1104"><img src="img/Abysse.JPG"/>
 					<figcaption>
 					  <h2>Projet<span> Abysse</span></h2>
 					</figcaption>
-					<a href="https://github.com/nath-pvr/abyss" target="_blank"></a>
+					<a href="https://anthonyc541.promo-45.codeur.online/abyss/abyss/" target="_blank"></a>
 				  </figure>
 
 				<figure class="snip1104"><img src="img/carte_voeux.jpg"/>
@@ -99,7 +99,7 @@
 					<figcaption>
 					  <h2>Projet<span> CRUD</span></h2>
 					</figcaption>
-					<a href="https://anthonyc541.promo-45.codeur.online/Comptes/register.php" target="_blank"></a>
+					<a href="https://anthonyc541.promo-45.codeur.online/Comptes/login.php" target="_blank"></a>
 				  </figure>
 
 				  <figure class="snip1104"><img src="img/mark.jpg"/>
@@ -113,7 +113,7 @@
 					<figcaption>
 					  <h2>Projet<span> Wordpress</span></h2>
 					</figcaption>
-					<a href="https://github.com/antho90/wordpress" target="_blank"></a>
+					<a href="https://anthonyc541.promo-45.codeur.online/wordpress/" target="_blank"></a>
 				  </figure>
 			</div>
 		</section>

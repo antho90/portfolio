@@ -52,3 +52,8 @@ form.addEventListener('submit',function(e){
       
   })
 
+  $("figure").mouseleave(
+    function() {
+      $(this).removeClass("hover");
+    }
+  );
