@@ -59,7 +59,7 @@
 					Bonjour je suis Anthony Chatelot. Actuellement en formation Designer web à l'Access Code School de Belfort.
 					Disponible pour stage dans le territoire de Belfort.
 				</p>
-				<a class="police link fs-link m_text m_bottom" href="https://drive.google.com/file/d/1kNBFs-z38VEaQKz1OBj8bACEOSQFuNGp/view?usp=sharing" target="_blank"> Télécharger mon CV </a>
+				<a class="police link fs-link m_text m_bottom" href="https://drive.google.com/file/d/1w97736SRPIAPn6SLUOjlFnR12cKiCvEI/view?usp=sharing" target="_blank"> Télécharger mon CV </a>
 			</div>
 		</section>
 

@@ -33,24 +33,24 @@ form.addEventListener('submit',function(e){
 })
   menu.addEventListener('change', ()=>{
       if (menu.checked){
+        links.forEach(link =>{
+            link.classList.add('menu-active')
+  
+        })
         const nav_links = document.querySelectorAll('.nav_links');
         nav_links.forEach(link =>{
           link.addEventListener('click', () =>{
             console.log('test')
             menu.checked=false
+            links.forEach(link =>{
+                link.classList.remove('menu-active')
+            })
           })
       })
-          links.forEach(link =>{
-          link.classList.add('menu-active')
+  }
+})
 
-      })
-      }else {
-        links.forEach(link =>{
-            link.classList.remove('menu-active')
-        })
-      }
-      
-  })
+// reseau sociaux
 
   $("figure").mouseleave(
     function() {
